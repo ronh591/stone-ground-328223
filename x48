@@ -1,0 +1,20 @@
+a=input("n the examples/simple module we have included several examples that show how to use the PACE library for encryption and signatures:")
+print(a + ":::::<groupId>edu.mit.ll.pace</groupId>")
+b=input("<workingDirectory>${project.build.directory}</workingDirectory>")
+for i in range(3):
+  print(a,b,a)
+c=input("6.042J/18.062J, Spring ’15: Mathematics for Computer Science")
+for i in range(3):
+  print(a,c,b)
+  print(b,c,a)
+  print(c,a,b)
+d=input("We know from past experience that any particular component will fail in a given year \n with probability p.")
+print(d)
+e="That is, letting Fi be the event that the ith component fails within \n one year, we have"
+print(d,e)
+f="The fundamental problem of linear algebra is to solve n linear equations in n \n unknowns; for example:"
+print(f)
+for i in range(3):
+  print(d,e,f)
+  print(e,d,f)
+  print(f,d,e)
